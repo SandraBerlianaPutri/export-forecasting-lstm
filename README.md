@@ -23,4 +23,4 @@ This project uses Long Short-Term Memory (LSTM) to forecast Indonesia's monthly 
 7. **Future Forecasting** — Generate forecasts for the next 17 months using recursive prediction.
 
 ## Author
-Sandra Berliana Putri - Statistics and Data Science graduate from IPB University, interested in data analysis and machine learning.
+**Sandra Berliana Putri** - Statistics and Data Science graduate from IPB University, interested in data analysis and machine learning.
